@@ -1,5 +1,5 @@
 # Introduction
-Blender addon that calculates the coordinates of a Bezier curve and translates them into Whitehole's coordinates through a .txt file. It's specifically made for the Tube Slide Controller.
+Blender addon that calculates the coordinates of the control points and handles of a Bezier curve and convert them into Whitehole coordinates through a .txt file. It's specifically made for the Tube Slide Controller.
 
 # Requirements
 In order to use this addon, you have to to follow some requirments:
