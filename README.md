@@ -10,10 +10,11 @@ In order to use this addon, you have to to follow some requirments:
 
    ![Image](https://user-images.githubusercontent.com/74122269/228070054-b4aeabe8-73c4-4665-9d53-f576b32fd6ab.PNG)
    
-This Add-on is only compatible with Blender 3.0> (for now)<br /><br />
+This Add-on is 
+ compatible with Blender 3.0> and 2.79<br /><br />
 
 # Installation
-Download the add-on and open Blender. Go to “Edit” in the Top Bar and choose “preferences”, select the tab labeled “Add-Ons”, click the “Install” button on the top right and select the downloaded file. Next, check on the box to the left of the downloaded Add-on.
+Download the right version of the add-on and open Blender. Go to “Edit” in the Top Bar and choose “preferences”, select the tab labeled “Add-Ons”, click the “Install” button on the top right and select the downloaded file. Next, check on the box to the left of the  Add-on.
 
 # How to use 
 To access the Add-on's panel, go to the 3D-VIEW and press N. This will open a side panel on the right. After that, just click on the "Slide" tab.<br />
