@@ -1,8 +1,8 @@
 # Introduction
-Blender addon that calculates the coordinates of the control points and handles of a Bezier curve and convert them into Whitehole coordinates through a .txt file. It's specifically made for the Tube Slide Controller.
+Blender addon that calculates the coordinates of the control points and handles of a Bezier curve and convert them into Whitehole coordinates through a .txt file. It's specifically made for the Tube Slide Controller in SMG2.
 
 # Requirements
-In order to use this addon, you have to to follow some requirments:
+In order to use this addon, you have to follow some requirments:
 * Your Slide model has to be imported in Whitehole and placed in your level
 * Your Curve must be a Bezier. Nurbs curves aren't supported yet
 * Your Curve must be scaled by 1000 (in order to match the game's real proportions) and rotated at -90° on the X axis
