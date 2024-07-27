@@ -48,7 +48,7 @@ class AddonPrintResultsOperator(bpy.types.Operator):
         points = []
         for point in curve.data.splines[0].bezier_points:
             points.append((float_vector[0] + point.co[0], float_vector[1] + point.co[1], float_vector[2] + point.co[2]))
-            points.append((float_vector[0] + point.handle_left[0], float_vector[1] +  point.handle_right[1], float_vector[2] + point.handle_right[2]))
+            points.append((float_vector[0] + point.handle_left[0], float_vector[1] +  point.handle_left[1], float_vector[2] + point.handle_left[2]))
             points.append((float_vector[0] + point.handle_right[0], float_vector[1] +  point.handle_right[1], float_vector[2] + point.handle_right[2]))
         filepath = bpy.path.abspath(context.scene.my_output_file)
         with open(filepath, "w") as f:
